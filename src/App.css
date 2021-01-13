@@ -1,0 +1,36 @@
+.container{
+   max-height: 800px;
+   overflow: scroll;
+   width: 30%;
+}
+
+   
+.wrapper{
+   display: flex;
+   background-color: white;
+   position: fixed;
+}
+.info{
+   display: flex;
+}
+.pop{
+   width: 400px;
+}
+.image{
+   text-align: right;
+}
+
+img{
+   width: 70%;
+   height: 35%;
+}
+
+.country{
+   text-align: center;
+   background-color: aqua;
+}
+.name{
+   font-size: 40px;
+   font-weight: 700;
+   margin: 0;
+}
